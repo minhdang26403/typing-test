@@ -1,1 +1,1 @@
-# typing-test
+# Typing test app
